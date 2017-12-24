@@ -27,8 +27,8 @@
         <Button
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:onClick="clickPlus"
-            android:text="@string/plus"
+            android:onClick="clickMin"
+            android:text="@string/minus"
             android:textSize="16sp"
             android:textStyle="bold" />
 
@@ -45,8 +45,8 @@
         <Button
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:onClick="clickMin"
-            android:text="@string/minus"
+            android:onClick="clickPlus"
+            android:text="@string/plus"
             android:textSize="16sp"
             android:textStyle="bold" />
 
